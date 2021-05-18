@@ -20,7 +20,7 @@ namespace FormsBackgrounding.Droid
 
 			WireUpLongRunningTask ();
 			WireUpLongDownloadTask ();
-        }
+        	}
 
 		void WireUpLongRunningTask()
 		{
